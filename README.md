@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil Github
 
 - 🔭 Atualmente estou em busca de uma oportunidade na área de TI
-- 📕 Estou cursando o 4° semestre de Engenharia de Software na UNIFACEF
+- 📕 Estou cursando o 6° semestre de Engenharia de Software na UNIFACEF
 - Como entrar em contato comigo:
   * email: danilo.nogueira1802@gmail.com
   * celular: 16 992667778
