@@ -1,15 +1,15 @@
 # 👨‍💻 Danilo Nogueira
 
-Seja bem-vindo ao meu perfil no GitHub!
+Seja bem-vindo!!
 
-Sou **Engenheiro de Software Júnior** com 2 anos de experiência profissional e foco em **desenvolvimento backend**. Trabalho com soluções escaláveis, APIs performáticas e arquitetura moderna baseada em microsserviços.
+Sou **Engenheiro de Software** com 2 anos de experiência profissional e foco em **desenvolvimento backend**. Trabalho com soluções escaláveis, APIs performáticas e arquitetura moderna baseada em microsserviços.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 👨‍💼 Engenheiro de Software Júnior com foco em **Backend**
-- 📚 Graduando em **Engenharia de Software** – 7º semestre (UNIFACEF)
+- 👨‍💼 Engenheiro de Software com foco em **Backend**
+- 📚 Graduando em **Engenharia de Software** – 8º semestre (UNIFACEF)
 - 🌱 Sempre aprendendo e me atualizando com boas práticas, testes e novas tecnologias
 
 ---
