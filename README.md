@@ -9,7 +9,8 @@ Sou **Engenheiro de Software** com 2 anos de experiência profissional e foco em
 ## 🚀 Sobre mim
 
 - 👨‍💼 Engenheiro de Software com foco em **Backend**
-- 📚 Graduando em **Engenharia de Software** – 8º semestre (UNIFACEF)
+- 📚 Graduado em **Engenharia de Software** – (UNIFACEF)
+- 📚 MBA em Arquitetura Full Cycle
 - 🌱 Sempre aprendendo e me atualizando com boas práticas, testes e novas tecnologias
 
 ---
