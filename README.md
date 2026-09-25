@@ -2,7 +2,7 @@
 
 Seja bem-vindo!!
 
-Sou **Engenheiro de Software** com 2 anos de experiência profissional e foco em **desenvolvimento backend**. Trabalho com soluções escaláveis, APIs performáticas e arquitetura moderna baseada em microsserviços.
+Sou **Engenheiro de Software** com 3 anos de experiência profissional e foco em **desenvolvimento backend**. Trabalho com soluções escaláveis, APIs performáticas e arquitetura moderna baseada em microsserviços.
 
 ---
 
